@@ -11,7 +11,6 @@
   "dependencies": {
     "async": "^2.4.1",
     "request": "^2.81.0",
-    "rpi-gpio": "^0.8.1",
-    "thingspeakclient": "^0.4.0"
+    "rpi-gpio": "^0.8.1"
   }
 }

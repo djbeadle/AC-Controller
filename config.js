@@ -3,7 +3,7 @@ var config = {};
 config.interval = 150000;
 config.control_pin = 26;
 
-config.threshold = 85;
+config.threshold = 74;
 config.goal = 5;
 
 config.min_time_on = 180000; // 30 minutes
